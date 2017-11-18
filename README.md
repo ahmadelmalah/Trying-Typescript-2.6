@@ -1,1 +1,1 @@
-# Trying-Typescript-2.6
+#  Playing with Typescript Version 2.6.1 
